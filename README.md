@@ -23,6 +23,9 @@ I wanted to replace these based on averages of similar locations but faced chall
 4. **Period Calculation:**
    - Added a new column, "Period," derived from the pickup datetime, categorized into three values: Morning, Afternoon, and Evening.
 
+5. **Exporting transformed data:**
+   I exported the transformed data as a CSV file. Because the dataframe was very large, It was divided into 11 parts.
+
 ## Visuals in the Report
 
 ### Filters
@@ -70,6 +73,9 @@ J'ai cherché à remplacer ces valeurs en fonction des moyennes des localisation
 
 4. **Calcul de la période :**
    - Ajout d'une nouvelle colonne, "Period," dérivée de la date et heure de "pickup", classée en trois valeurs : Matin, Après-midi et Soir.
+
+5. **Export des données transformées :**
+   J'ai exporté les données transformées sous forme de CSV. Parce que le dataframe était très lors, j'ai il a été divisé en 11 parties.
 
 ## Visuels du rapport
 
