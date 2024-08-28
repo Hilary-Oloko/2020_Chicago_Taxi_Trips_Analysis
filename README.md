@@ -7,7 +7,12 @@ This little project aims to manipulate data using PySpark SQL and implement visu
 
 The focus is on analysing Chicago taxi trip data with an emphasis on geospatial and temporal analysis.
 
-## Data Transformation with PySpark SQL
+## Get data
+
+The file is too large to be load here. But you can find it by going here: https://www.kaggle.com/datasets/chicago/chicago-taxi-trips-bq
+If you don't want to change the code too much, consider adding it to a data folder in your directory.
+
+## Data Processing with PySpark SQL
 
 1. **Data Cleaning:**
    - Removed rows with no geolocation for dropoff and pickup to ensure the integrity of our visualization based on maps.
@@ -57,6 +62,11 @@ Run the main Python script to start the dashboard. The dashboard will be accessi
 Ce projet vise à manipuler des données en utilisant PySpark SQL et à mettre en œuvre des visualisations avec Dash, en explorant des fonctionnalités qui n'avaient pas été testées dans des projets précédents comme changer de métrique sur le même graphique ou afficher la même métrique mais changer de graphique.
 
 Je me suis concentrée sur l'analyse des données de courses de taxi à Chicago, avec une attention particulière sur l'analyse géospatiale et temporelle.
+
+## Obtenir les données
+
+Le fichier est beaucoup trop lourd pour que je puisse le charger ici. Mais vous pouvez le trouver en allant ici : https://www.kaggle.com/datasets/chicago/chicago-taxi-trips-bq
+Si vous ne voulez pas trop changer le code, pensez à l'ajouter dans un dossier data de votre répertoire.
 
 ## Transformation des données avec PySpark SQL
 
