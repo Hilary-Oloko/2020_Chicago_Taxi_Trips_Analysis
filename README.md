@@ -1,5 +1,6 @@
 Down below you will find the French translation.
 Vous trouverez plus bas la traduction en français
+# English
 
 # Chicago Taxi Trips Analysis
 
@@ -30,6 +31,7 @@ I wanted to replace these based on averages of similar locations but faced chall
 
 5. **Exporting transformed data:**
    I exported the transformed data as a CSV file. Because the dataframe was very large, It was divided into 11 parts.
+# Français
 
 ## Visuals in the Report
 
